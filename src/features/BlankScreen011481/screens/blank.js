@@ -39,7 +39,7 @@ _Blank = withStyles(__Blank, theme => ({
     backgroundColor: "#ffffff",
     fontStyle: "normal",
     fontWeight: "normal",
-    flexDirection: "column",
+    flexDirection: "row",
     flexWrap: "wrap",
     justifyContent: "flex-start",
     alignItems: "stretch",
